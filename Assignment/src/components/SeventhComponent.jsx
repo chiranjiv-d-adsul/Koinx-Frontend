@@ -3,7 +3,7 @@ import React from "react";
 const SeventhComponent = () => {
   return (
     <>
-      <div className="flex flex-col md:h-[776px] md:w-[881px] my-[1.25rem] w-full h-[42.5rem] border border-solid border-gray-300 bg-white rounded-[0.5rem] p-[1.5rem] gap-[1.5rem]">
+      <div className="flex flex-col md:h-[776px] md:w-[881px] my-[1.25rem] w-full  border border-solid border-gray-300 bg-white rounded-[0.5rem] p-[1.5rem] gap-[1.5rem]">
         <h1 className="font-Inter font-semibold text-[24px] text-[#0F1629] leading-7">
           Team
         </h1>
