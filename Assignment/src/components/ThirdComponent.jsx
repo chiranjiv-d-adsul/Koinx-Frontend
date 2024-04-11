@@ -4,7 +4,7 @@ const ThirdComponent = () => {
   return (
     <>
         <div className=" sm:w-[881px] sm:h-[632px] w-full bg-blue-300 h-[32.5rem] rounded-[0.5rem] p-[1.5rem] gap-[1.5rem]">
-            <div className="sm:h-[554.8px] sm:w-[831px] h-[780px] w-full bg-emerald-200 gap-6">
+            <div className="sm:h-[554.8px] sm:w-[831px] h-[780px] w-full  gap-6">
               <h1 className="font-[inter] font-semibold text-[24px] leading-[28.8px] text-[#0F1629]">
                 Performance
               </h1>
