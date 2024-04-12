@@ -7,7 +7,7 @@ const FirstComponent = () => {
             <div className="h-[40px] gap-[40px] bg-slate-500">
               <h1 className="flex gap-2">
                 {" "}
-                <img src="src/assets/bnb.png" alt="" width={36} height={36} />
+                <img src="/assets/bnb.png" alt="" width={36} height={36} />
                 <h1 className="my-auto"> Bitcoin </h1> BTC
               </h1>
             </div>

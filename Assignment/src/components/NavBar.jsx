@@ -1,5 +1,5 @@
 import React from "react";
-import { menublack18dp, KoinXLogo  } from "../assets";
+import { menublack18dp, KoinXLogo  } from "../../public/assets/index.js";
 import { navLinks } from "../constants/index.js";
 
 const Header = () => {
@@ -11,7 +11,7 @@ const Header = () => {
           className="w-[96px] h-[72px] "
         >
           <img
-            src="src/assets/KoinXLogo.svg"
+            src={KoinXLogo}
             alt="logo"
             width={96}
             height={24}

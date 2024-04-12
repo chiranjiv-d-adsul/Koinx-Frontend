@@ -8,9 +8,9 @@ const EightComponent = () => {
           <h1 className='text-[#FFFFFF] font-inter font-semibold gap-[14px] text-2xl leading-40 text-center'>Get Started with KoinX for FREE</h1>
           <p className='text-[#F2F2F2] font-inter font-medium text-sm leading-24 text-center'>With our range of features that you can equip for free,
             KoinX allows you to be more educated and aware of your tax reports.</p>
-        <img className='sm:pt-[39px]' src="/src/assets/Frame.svg" alt="" height={'166.22px'} width={'166.22px'} />
+        <img className='sm:pt-[39px]' src="/assets/Frame.svg" alt="" height={'166.22px'} width={'166.22px'} />
 
-        <button className='w-[241px] h-[48px] flex gap-[6px] justify-between items-center rounded-lg px-[24px] py-[10px] bg-[#FFFFFF] font-inter font-semibold text-base leading-28'> Get Started for FREE <img src="/src/assets/ArrowRight.svg" alt="" /> </button>
+        <button className='w-[241px] h-[48px] flex gap-[6px] justify-between items-center rounded-lg px-[24px] py-[10px] bg-[#FFFFFF] font-inter font-semibold text-base leading-28'> Get Started for FREE <img src="/assets/ArrowRight.svg" alt="" /> </button>
         </div>
       </div>
     </div>

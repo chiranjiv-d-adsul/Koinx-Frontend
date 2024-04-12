@@ -10,7 +10,7 @@ const NinthComponent = () => {
         <div className="flex gap-[24px]  justify-between  items-center ">
           <div className="flex gap-[6px]">
             <img
-              src="/src/assets/Ethereum-ETH.png.png"
+              src="/assets/Ethereum-ETH.png.png"
               alt=""
               height={24}
               width={24}
@@ -24,7 +24,7 @@ const NinthComponent = () => {
         <div className="flex gap-[24px]  justify-between  items-center ">
           <div className="flex gap-[6px]">
             <img
-              src="/src/assets/bnb.png"
+              src="/assets/bnb.png"
               alt=""
               height={24}
               width={24}
